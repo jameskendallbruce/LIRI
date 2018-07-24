@@ -169,7 +169,7 @@ switch (action) {
           });
     }
 
-if (action != ("spotify-this-song" || "movie-this" || "do-what-it-says" || "movie-this") ){
+if (action != ("spotify-this-song" || "movie-this" || "do-what-it-says" || "my-tweets") ){
     console.log("")
     console.log("")
     console.log("")
